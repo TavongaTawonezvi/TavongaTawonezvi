@@ -1,6 +1,6 @@
 # Tavonga Tawonezvi
 
-Second year undergrad student at the University of Cape Town pursuing<!--, juggling--> a triple major in Computer Science, Applied Statistics, and German Language Studies. 👨‍💻📊🇩🇪
+Penultimate year undergrad student at the University of Cape Town pursuing<!--, juggling--> a triple major in Computer Science, Applied Statistics, and German Language Studies. 👨‍💻📊🇩🇪
 
 ## 🔭 Current Focus
 
