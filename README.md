@@ -8,7 +8,7 @@ Penultimate year undergrad student at the University of Cape Town pursuing<!--, 
 - 📈 Exploring the fascinating world of data and statistics; analyzing data to derive meaningful insights.
 - 🇩🇪 Enhancing my proficiency in German; both linguistically and culturally.
 
-## 🚀 Languages and Tools
+## 🚀 Tools I've used in the past
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java"  alt="java" width="40" height="40"/>&nbsp;
@@ -22,23 +22,24 @@ Penultimate year undergrad student at the University of Cape Town pursuing<!--, 
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 
 </div>
 
-## 🌱 Learning...
+## 🌱 Tools I'm currently using 
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp; 
- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp; 
+ <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp; -->
 
 </div>
 
