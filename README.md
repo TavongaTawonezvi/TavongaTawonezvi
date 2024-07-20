@@ -4,9 +4,9 @@ Penultimate year undergrad student at the University of Cape Town pursuing<!--, 
 
 ## 🔭 Current Focus
 
-- 👩‍💻 Diving into algorithms, data structures, and software development.
-- 📈 Exploring the fascinating world of data and statistics; analyzing data to derive meaningful insights.
-- 🇩🇪 Enhancing my proficiency in German; both linguistically and culturally.
+- 👩‍💻 Getting a good grasp on fundamental algorithms, data structures, and the dev life-cycle.
+- 📈 Learning more about how data and stats can be used to make informed business decisions.
+- 🇩🇪 Improving my German language skills and learning more about the culture.
 
 ## 🚀 Tools I've used in the past
 
