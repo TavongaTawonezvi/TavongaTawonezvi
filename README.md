@@ -8,7 +8,7 @@ Penultimate year undergrad student at the University of Cape Town pursuing<!--, 
 - 📈 Learning more about how data and stats can be used to make informed business decisions.
 - 🇩🇪 Improving my German language skills and learning more about the culture.
 
-## 🚀 Tools I've used in the past
+## 🚀 Tools I've used
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java"  alt="java" width="40" height="40"/>&nbsp;
