@@ -1,6 +1,6 @@
 # Tavonga Tawonezvi
 
-<!--Final year undergrad student at the University of Cape Town pursuing<!--, juggling--> a major in Computer Science, while taking minor courses in Applied Statistics, and German Language Studies.
+<!--Final year undergrad student at the University of Cape Town pursuing<!--, juggling--> a major in Computer Science, while taking minor courses in Applied Statistics, and German Language Studies.-->
 
 <!--## 🔭 Current Focus
 
