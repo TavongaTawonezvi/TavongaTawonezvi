@@ -1,12 +1,12 @@
 # Tavonga Tawonezvi
 
-Final year undergrad student at the University of Cape Town pursuing<!--, juggling--> a major in Computer Science, while taking minor courses in Applied Statistics, and German Language Studies. 👨‍💻📊🇩🇪
+<!--Final year undergrad student at the University of Cape Town pursuing<!--, juggling--> a major in Computer Science, while taking minor courses in Applied Statistics, and German Language Studies.
 
-## 🔭 Current Focus
+<!--## 🔭 Current Focus
 
 - 👩‍💻 Getting a good grasp on fundamental algorithms, data structures, and the dev life-cycle.
 - 📈 Learning more about how data can be used to make informed business decisions.
-- 🇩🇪 Improving my German language skills and learning more about the German culture.
+- 🇩🇪 Improving my German language skills and learning more about the German culture.-->
 
 ## 🚀 Tools I've used
 
